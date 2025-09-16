@@ -1,1 +1,1 @@
-You just wasted your time reading this lol
+this repo basically was an exercise given by my teacher pedraza to illustrate and practice what we learned in class and how to use github on the the Html and css files are simple tags for a basic website 
